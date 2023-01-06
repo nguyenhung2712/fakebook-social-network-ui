@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-    baseURL: "https://fakebook-social-network-production.up.railway.app/api",
+    baseURL: "https://social-network-production.up.railway.app/api",
     headers: {
         "Content-Type": "application/json",
         "Access-Control-Allow-Headers": "*",
