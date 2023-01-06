@@ -1,0 +1,9 @@
+.not-found {
+    background: url(https://static.vecteezy.com/system/resources/previews/006/549/647/original/404-landing-page-free-vector.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.not-found > .page-wrap {
+    min-height: 100vh;
+}
